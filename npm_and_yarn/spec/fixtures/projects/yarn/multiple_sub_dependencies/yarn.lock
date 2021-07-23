@@ -48,12 +48,12 @@ format-util@^1.0.3:
   resolved "https://registry.yarnpkg.com/format-util/-/format-util-1.0.3.tgz#032dca4a116262a12c43f4c3ec8566416c5b2d95"
   integrity sha1-Ay3KShFiYqEsQ/TD7IVmQWxbLZU=
 
-front-matter@2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/front-matter/-/front-matter-2.0.1.tgz#26d1b0db40ee871aa13b4c31e969c300fc07d315"
-  integrity sha1-JtGw20DuhxqhO0wx6WnDAPwH0xU=
+front-matter@4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/front-matter/-/front-matter-4.0.1.tgz#5fde892d19b6ec548b73693818dd94e57b1df163"
+  integrity sha512-Kbm520Nf8Ir1IAdZg2CyXXszDCRsA0NbY25JJFgC9XWOcYyYIngRPk9M7RVpR478sGQfC9hS1Fxwaz58tVJbLw==
   dependencies:
-    js-yaml "^3.4.6"
+    js-yaml "^3.13.1"
 
 is-arrayish@^0.2.1:
   version "0.2.1"
@@ -73,7 +73,15 @@ js-yaml@^3.10.0:
     argparse "^1.0.7"
     esprima "^4.0.0"
 
-js-yaml@^3.4.6, js-yaml@^3.9.0:
+js-yaml@^3.13.1:
+  version "3.14.1"
+  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.14.1.tgz#dae812fdb3825fa306609a8717383c50c36a0537"
+  integrity sha512-okMH7OXXJ7YrN9Ok3/SXrnu4iX9yOk+25nqX4imS2npuvTYDmo/QEZoqwZkYaIDk3jVvBOTOIEgEhaLOynBS9g==
+  dependencies:
+    argparse "^1.0.7"
+    esprima "^4.0.0"
+
+js-yaml@^3.9.0:
   version "3.9.0"
   resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.9.0.tgz#4ffbbf25c2ac963b8299dc74da7e3740de1c18ce"
   integrity sha512-0LoUNELX4S+iofCT8f4uEHIiRBR+c2AINyC8qRWfC6QNruLtxVZRJaPcu/xwMgFIgDxF25tGHaDjvxzJCNE9yw==
