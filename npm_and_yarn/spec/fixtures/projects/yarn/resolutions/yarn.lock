@@ -2,10 +2,7 @@
 # yarn lockfile v1
 
 
-lodash@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-1.0.0.tgz#2535c2f7dcb6937cee8d2672c5f7138eee0df6a9"
-
-lodash@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-0.1.0.tgz#392617f69a947e40cec7848d85fcc3dd29d74bc5"
+lodash@^4.0.0:
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
