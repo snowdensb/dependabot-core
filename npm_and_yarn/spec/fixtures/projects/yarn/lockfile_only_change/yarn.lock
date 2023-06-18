@@ -1376,12 +1376,13 @@ getpass@^0.1.1:
   dependencies:
     assert-plus "^1.0.0"
 
-git-contributors@^0.2.3:
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/git-contributors/-/git-contributors-0.2.3.tgz#02dc7cb77c1256716e4afb0331267c02f70e5815"
+git-contributors@^0.2.5:
+  version "0.2.5"
+  resolved "https://registry.yarnpkg.com/git-contributors/-/git-contributors-0.2.5.tgz#5fae734fd9980b4c14122fae1349a82b03f055f6"
+  integrity sha512-x3wb3oQ4KYJGLJqCp+a1+hd7W1e6kNYhOE+bXO5VzCZK8oSCVQbosrN4Cg8ZiJofW4xp5MQsaZJdKI1rl+9p3g==
   dependencies:
     commander "~2.8.1"
-    lodash "~3.9.3"
+    lodash "^4.17.21"
     q "~2.0.3"
 
 glob-base@^0.3.0:
@@ -2375,9 +2376,10 @@ lodash@^4.13.1, lodash@^4.14.0, lodash@^4.15.0, lodash@^4.17.4, lodash@^4.2.0, l
   version "4.17.4"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
 
-lodash@~3.9.3:
-  version "3.9.3"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-3.9.3.tgz#0159e86832feffc6d61d852b12a953b99496bd32"
+lodash@^4.17.21:
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 log-symbols@^1.0.2:
   version "1.0.2"
