@@ -1,6 +1,6 @@
 {
     "require": {
-        "phalcon/devtools": "~3.2",
+        "phalcon/devtools": "~4.0.0-beta.2",
         "longman/telegram-bot": "*",
         "james-heinrich/getid3": "^1.9"
     }
