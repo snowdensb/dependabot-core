@@ -10,7 +10,7 @@ async-generator==1.10     # via voila
 attrs==19.3.0             # via jsonschema
 audioread==2.1.8          # via librosa
 backcall==0.2.0           # via ipython
-bleach==3.1.5             # via nbconvert
+bleach==3.3.0             # via nbconvert
 cffi==1.14.0              # via soundfile
 cycler==0.10.0            # via matplotlib
 decorator==4.4.2          # via ipython, librosa, traitlets
