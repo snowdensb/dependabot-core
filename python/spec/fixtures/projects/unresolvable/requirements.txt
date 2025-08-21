@@ -40,7 +40,7 @@ jupyterlab-pygments==0.1.1  # via voila
 kiwisolver==1.2.0         # via matplotlib
 librosa==0.7.2            # via -r requirements.in
 llvmlite==0.31.0          # via numba
-lxml==4.5.2               # via jupyter-contrib-nbextensions
+lxml==4.6.5               # via jupyter-contrib-nbextensions
 markupsafe==1.1.1         # via jinja2
 matplotlib==3.3.0         # via -r requirements.in
 mistune==0.8.4            # via nbconvert
