@@ -4,6 +4,6 @@
         "php": ">=5",
         "phalcon/devtools": "~3.2",
         "longman/telegram-bot": "*",
-        "james-heinrich/getid3": "^1.9"
+        "james-heinrich/getid3": "^1.9.21"
     }
 }
