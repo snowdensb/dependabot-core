@@ -19,7 +19,7 @@ entrypoints==0.3          # via nbconvert
 importlib-metadata==1.7.0  # via jsonschema
 ipykernel==5.3.3          # via ipywidgets, jupyter, jupyter-console, jupyter-server, notebook, qtconsole
 ipython-genutils==0.2.0   # via jupyter-contrib-nbextensions, jupyter-server, nbformat, notebook, qtconsole, traitlets
-ipython==7.16.1           # via ipykernel, ipywidgets, jupyter-console, jupyter-latex-envs
+ipython==7.34.0           # via ipykernel, ipywidgets, jupyter-console, jupyter-latex-envs
 ipywidgets==7.5.1         # via jupyter
 jax==0.1.72               # via -r requirements.in
 jedi==0.17.2              # via ipython
