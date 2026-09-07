@@ -12,5 +12,5 @@ packages = [
 python = "^3.9"
 
 [build-system]
-requires = ["poetry>=1.0"]
+requires = ["poetry>=2.3.4"]
 build-backend = "poetry.masonry.api"
