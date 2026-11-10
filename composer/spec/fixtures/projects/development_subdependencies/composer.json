@@ -1,6 +1,6 @@
 {
     "require": {
-        "symfony/yaml": "4.3.3"
+        "symfony/yaml": "5.4.56"
     },
     "require-dev": {
         "phpunit/phpunit": "3.7.4"
