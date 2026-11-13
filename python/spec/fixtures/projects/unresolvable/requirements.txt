@@ -48,7 +48,7 @@ nbconvert==5.6.1          # via jupyter, jupyter-contrib-nbextensions, jupyter-l
 nbformat==5.0.7           # via ipywidgets, jupyter-server, nbconvert, notebook
 notebook==6.0.3           # via jupyter, jupyter-contrib-core, jupyter-contrib-nbextensions, jupyter-latex-envs, jupyter-nbextensions-configurator, widgetsnbextension
 numba==0.48.0             # via -r requirements.in, librosa, resampy
-numpy==1.19.0             # via -r requirements.in, jax, librosa, matplotlib, numba, opt-einsum, resampy, scikit-learn, scipy
+numpy==1.22.0             # via -r requirements.in, jax, librosa, matplotlib, numba, opt-einsum, resampy, scikit-learn, scipy
 opt-einsum==3.2.1         # via jax
 packaging==20.4           # via bleach
 pandocfilters==1.4.2      # via nbconvert
